@@ -1,0 +1,6 @@
+.main-sec{
+  display: flex;
+  min-height: calc(100vh - 70px);
+  overflow: hidden;
+}
+.App{min-height: 100vh;}

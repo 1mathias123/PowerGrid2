@@ -1,0 +1,550 @@
+@media (min-width: 1351px) and (max-width: 1649px) {
+    .left-menu{
+        max-width: 250px;
+    }
+
+    .Farm{
+        padding: 50px 5%;
+    }
+}
+
+
+
+@media (min-width: 1025px) and (max-width: 1350px) {
+    .left-menu{
+        position: fixed;
+        left: -300px;
+        bottom: 0;
+        top: 70px;
+        width: 300px;
+        z-index: 50;
+        transition: all 330ms ease-in-out;
+        .hamburgr{
+            display: block
+        }
+    }
+    .menu-open{left: 0px;}
+    .Home{
+        .blue-bx-lg{
+            h3{font-size: 22px;}
+            .info{
+                font-size: 16px;
+                h3{
+                    font-size: 18px;
+                }
+            }
+        }
+        .blue-bx-sm{
+            font-size: 20px;
+            h2{
+                font-size: 24px;
+            }
+        }
+        .blue-bx-stats{
+            h2{font-size: 22px;}
+        }
+    }
+
+    .lottery-bx{
+        .blue-bx{
+            .info{
+                font-size: 14px;
+            }
+            .headerbtm{
+                flex-direction: column;
+                text-align: center;
+                margin: 0 5px;
+                img{margin: 0 0 10px;}
+
+            }
+        }
+    }
+
+    .Farm{
+        padding: 50px 5%;
+        .farm-bx {
+            .header {
+                .coinouter{
+                    img{
+                        height: 50px;
+                    }
+                }
+            }
+            .btnbottom{
+                h6{
+                    margin-bottom: 10px;
+                    margin-top: 20px;
+                }
+            }
+        }
+    }
+
+    
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1024px) {
+    .left-menu{
+        position: fixed;
+        left: -300px;
+        bottom: 0;
+        top: 70px;
+        width: 300px;
+        z-index: 50;
+        transition: all 330ms ease-in-out;
+        .hamburgr{
+            display: block
+        }
+    }
+    .menu-open{left: 0px;}
+    .Home{
+        .blue-bx-lg{
+            h3{font-size: 22px;}
+            .info{
+                font-size: 16px;
+                h3{
+                    font-size: 18px;
+                }
+            }
+        }
+        .blue-bx-sm{
+            font-size: 20px;
+            h2{
+                font-size: 24px;
+            }
+        }
+        .blue-bx-stats{
+            h2{font-size: 22px;}
+        }
+    }
+
+    .lottery-bx{
+        .blue-bx{
+            .info{
+                font-size: 14px;
+            }
+            .headerbtm{
+                flex-direction: column;
+                text-align: center;
+                margin: 0 5px;
+                font-size: 14px;
+                img{margin: 0 0 10px;}
+
+            }
+        }
+    }
+
+    .Farm{
+        padding: 50px 5%;
+        .farm-bx {
+            .header {
+                .coinouter{
+                    img{
+                        height: 50px;
+                    }
+                }
+            }
+            .btnbottom{
+                h6{
+                    margin-bottom: 10px;
+                    margin-top: 20px;
+                }
+            }
+        }
+    }
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .left-menu{
+        position: fixed;
+        left: -300px;
+        bottom: 0;
+        top: 70px;
+        width: 300px;
+        z-index: 50;
+        transition: all 330ms ease-in-out;
+        .hamburgr{
+            display: block
+        }
+    }
+    .menu-open{left: 0px;}
+    .Home{
+        padding: 50px 6%;
+        .blue-bx-lg{
+            h3{font-size: 20px;}
+            .info{
+                font-size: 14px;
+                h3{
+                    font-size: 16px;
+                }
+            }
+        }
+        .blue-bx-sm{
+            font-size: 18px;
+            h2{
+                font-size: 22px;
+            }
+        }
+        .blue-bx-stats{
+            h2{font-size: 20px;}
+        }
+    }
+
+    .Lottery{padding: 50px 6%;}
+    .lottery-bx{
+        .blue-bx{
+            .info{
+                font-size: 14px;
+            }
+            .headerbtm{
+                flex-direction: column;
+                text-align: center;
+                margin: 0 5px;
+                font-size: 14px;
+                img{margin: 0 0 10px;}
+
+            }
+        }
+    }
+
+
+    .Farm{
+        padding: 50px 5%;
+        .tab-slider--nav{
+            margin-bottom: 0px;
+        }
+        .farm_headinng {
+            .headingimg{
+                width: 90%;
+            }
+        }
+        .farm-bx {
+            .header {
+                .coinouter{
+                    img{
+                        height: 50px;
+                    }
+                }
+            }
+            .btnbottom{
+                h6{
+                    margin-bottom: 10px;
+                    margin-top: 20px;
+                }
+            }
+        }
+    }
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .left-menu{
+        position: fixed;
+        left: -300px;
+        bottom: 0;
+        top: 70px;
+        width: 300px;
+        z-index: 50;
+        transition: all 330ms ease-in-out;
+        .hamburgr{
+            display: block
+        }
+    }
+    .menu-open{left: 0px;}
+    .Home{
+        padding: 50px 8%;
+        .row{
+            margin-bottom: 0;
+            .col-sm-12{
+                margin-bottom: 30px;
+            }
+        }
+        .blue-bx-lg{
+            h3{font-size: 20px;}
+            .info{
+                font-size: 14px;
+                h3{
+                    font-size: 16px;
+                }
+            }
+        }
+        .blue-bx-sm{
+            font-size: 18px;
+            h2{
+                font-size: 22px;
+            }
+        }
+        .blue-bx-stats{
+            h2{font-size: 20px;}
+        }
+        .blue-bx-power{
+            position: relative;
+            min-height: 180px;
+        }
+    }
+
+    .Lottery{padding: 50px 16%;}
+    .lottery-bx{
+        margin-bottom: 30px;
+        .blue-bx{
+            .info{
+                font-size: 14px;
+            }
+            .headerbtm{
+                flex-direction: column;
+                text-align: center;
+                margin: 0 5px;
+                font-size: 14px;
+                img{margin: 0 0 10px;}
+
+            }
+        }
+    }
+    .ltry_bx_main{width: 100%;}
+    .Farm{
+        padding: 50px 5%;
+        .tab-slider--nav{
+            margin-bottom: 16px;
+        }
+        .farm_headinng {
+            .headingimg{
+                flex-direction: column;
+                width: 90%;
+            }
+        }
+        .farm-bx {
+            .header {
+                .coinouter{
+                    img{
+                        height: 50px;
+                    }
+                }
+            }
+            .btnbottom{
+                h6{
+                    margin-bottom: 10px;
+                    margin-top: 20px;
+                }
+            }
+        }
+        .farm_headinng{
+            .headingimg{
+                width: 80%;
+            }
+        }
+    }
+}
+
+
+
+@media (min-width: 448px) and (max-width: 575px) {
+    .left-menu{
+        position: fixed;
+        left: -300px;
+        bottom: 0;
+        top: 70px;
+        width: 300px;
+        z-index: 50;
+        transition: all 330ms ease-in-out;
+        .hamburgr{
+            display: block
+        }
+    }
+    .menu-open{left: 0px;}
+    .Home{
+        padding: 50px 8%;
+        .row{
+            margin-bottom: 0;
+            .col-sm-12{
+                margin-bottom: 30px;
+            }
+        }
+        .blue-bx-lg{
+            h3{font-size: 20px;}
+            .info{
+                font-size: 14px;
+                h3{
+                    font-size: 16px;
+                }
+            }
+        }
+        .blue-bx-sm{
+            font-size: 18px;
+            h2{
+                font-size: 22px;
+            }
+        }
+        .blue-bx-stats{
+            h2{font-size: 20px;}
+        }
+        .blue-bx-power{
+            min-height: 180px;
+        }
+    }
+
+    .Lottery{padding: 50px 10%;}
+    .lottery-bx{
+        margin-bottom: 30px;
+        .blue-bx{
+            .info{
+                font-size: 14px;
+            }
+            .headerbtm{
+                flex-direction: column;
+                text-align: center;
+                margin: 0 5px;
+                font-size: 14px;
+                img{margin: 0 0 10px;}
+
+            }
+        }
+    }
+    .ltry_bx_main{width: 100%;}
+
+    .Farm{
+        padding: 50px 5%;
+        .tab-slider--nav{
+            margin-bottom: 16px;
+        }
+        .farm_headinng {
+            .headingimg{
+                width: 90%;
+            }
+        }
+        .farm-bx {
+            .header {
+                .coinouter{
+                    img{
+                        height: 50px;
+                    }
+                }
+            }
+            .btnbottom{
+                h6{
+                    margin-bottom: 10px;
+                    margin-top: 20px;
+                }
+            }
+        }
+        .farm_headinng{
+            .headingimg{
+                width: 80%;
+            }
+        }
+    }
+}
+
+
+
+@media (max-width: 447px) {
+    .left-menu{
+        position: fixed;
+        left: -300px;
+        bottom: 0;
+        top: 70px;
+        width: 300px;
+        z-index: 50;
+        transition: all 330ms ease-in-out;
+        .hamburgr{
+            display: block
+        }
+    }
+    .menu-open{left: 0px;}
+    .Home{
+        padding: 50px 8%;
+        .head{
+            div{margin: 0 10px;}
+        }
+        .row{
+            margin-bottom: 0;
+            .col-sm-12{
+                margin-bottom: 30px;
+            }
+        }
+        .blue-bx-lg{
+            h3{font-size: 20px;}
+            .info{
+                font-size: 14px;
+                h3{
+                    font-size: 16px;
+                }
+            }
+        }
+        .blue-bx-sm{
+            font-size: 18px;
+            h2{
+                font-size: 22px;
+            }
+        }
+        .blue-bx-stats{
+            h2{font-size: 20px;}
+        }
+        .blue-bx-power{
+            position: relative;
+            min-height: 180px;
+
+        }
+    }
+
+    .Lottery{padding: 50px 10%;}
+    .lottery-bx{
+        margin-bottom: 30px;
+        .blue-bx{
+            .info{
+                font-size: 14px;
+            }
+            .headerbtm{
+                flex-direction: column;
+                text-align: center;
+                margin: 0 5px;
+                font-size: 13px;
+                img{margin: 0 0 10px;}
+                h5{font-size: 14px;}
+
+            }
+        }
+    }
+    .ltry_bx_main{width: 100%;}
+
+    .Farm{
+        padding: 50px 5%;
+        .tab-slider--nav{
+            margin-bottom: 16px;
+        }
+        .farm_headinng {
+            .headingimg{
+                width: 90%;
+            }
+        }
+        .farm_headinng {
+            .headingimg{
+                flex-direction: column;
+                width: 100%;
+            }
+        }
+        .farm-bx {
+            .header {
+                .coinouter{
+                    img{
+                        height: 50px;
+                    }
+                }
+            }
+            .btnbottom{
+                h6{
+                    margin-bottom: 10px;
+                    margin-top: 20px;
+                }
+            }
+        }
+        .farm_headinng{
+            .headingimg{
+                width: 80%;
+            }
+        }
+    }
+}
